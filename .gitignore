@@ -1,0 +1,4 @@
+.DS_Store
+
+# Never check in CSV files from initial load
+__initial_load/**/*.csv

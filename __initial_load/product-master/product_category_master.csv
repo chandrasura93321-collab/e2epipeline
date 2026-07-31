@@ -1,0 +1,11 @@
+category_code,category_name,reporting_segment,is_active,effective_start_date,effective_end_date,created_at,source_system
+IPH,iPhone,iPhone,Y,2007-06-29,9999-12-31,2026-04-17 15:11:39.151283,PLM_CORE
+IPD,iPad,iPad,Y,2010-04-03,9999-12-31,2026-04-17 15:11:39.151289,PLM_CORE
+MAC,Mac,Mac,Y,1984-01-24,9999-12-31,2026-04-17 15:11:39.151290,PLM_CORE
+WCH,Apple Watch,"Wearables, Home and Accessories",Y,2015-04-24,9999-12-31,2026-04-17 15:11:39.151291,PLM_CORE
+AIR,AirPods,"Wearables, Home and Accessories",Y,2016-12-13,9999-12-31,2026-04-17 15:11:39.151292,PLM_CORE
+TV,Apple TV,"Wearables, Home and Accessories",Y,2007-03-21,9999-12-31,2026-04-17 15:11:39.151292,PLM_CORE
+HMP,HomePod,"Wearables, Home and Accessories",Y,2018-02-09,9999-12-31,2026-04-17 15:11:39.151293,PLM_CORE
+DSP,Displays,Mac,Y,2019-12-10,9999-12-31,2026-04-17 15:11:39.151293,PLM_CORE
+ACC,Accessories,"Wearables, Home and Accessories",Y,2007-01-09,9999-12-31,2026-04-17 15:11:39.151294,PLM_CORE
+VPR,Apple Vision Pro,"Wearables, Home and Accessories",Y,2024-02-02,9999-12-31,2026-04-17 15:11:39.151294,PLM_CORE
